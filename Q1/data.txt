@@ -1,0 +1,12 @@
+Computer Science
+Fort Collins
+Text with white space.
+6
+83
+121
+1.23456789
+32.456
+969.32
+false
+true
+true
